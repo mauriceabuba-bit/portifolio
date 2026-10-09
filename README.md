@@ -50,7 +50,10 @@ Then open http://localhost:8000 in your browser.
 
 ## Contributors
 
-- Abuba UFITINEMA
+Full Name: Ndikumana Eric
+GitHub Username: eric-dj123
+GitHub Profile: https://github.com/eric-dj123
+Role: Portfolio collaborator
 
 ## Project link
 
