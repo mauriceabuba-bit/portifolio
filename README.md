@@ -48,12 +48,14 @@ python -m http.server 8000
 
 Then open http://localhost:8000 in your browser.
 
-## Contributors
+## Collaborator
 
-Full Name: Ndikumana Eric
-GitHub Username: eric-dj123
-GitHub Profile: https://github.com/eric-dj123
-Role: Portfolio collaborator
+* **Full Name:** Albert Simbankabo
+* **GitHub Username:** Simbalbert
+* **GitHub Profile:** https://github.com/Simbalbert
+* **Portfolio Repository:** https://github.com/Simbalbert/albert.github.com
+* **Role:** Portfolio collaborator
+
 
 ## Project link
 
